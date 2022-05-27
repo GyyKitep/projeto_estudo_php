@@ -1,0 +1,9 @@
+- Linguagem Dinamicamente Tipada = O Tipo da Variavel é declara pelo valor que ela recebe
+
+- Aspas 
+  Duplas  = Ele interpreta variaveis dentro do texto  " texto $variavel"               -> Consome mais memoria
+  Simples = Ele transforma tudo dentro das aspas simprles em texto 'texto' . $variavel -> Consome menos memoria
+
+- /r/n - quebra de linha no windows
+
+- PHP_EOL - pega a quebra de linha do sistema operacional
